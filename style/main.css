@@ -94,7 +94,7 @@ header nav a:hover {
     font-family: 'Rubik Mono One', sans-serif;
     font-size: 15px;
 }
-.filme-principal .container { /* faz com que a largura do título fiqueu em 70% para que o texto não se expanda */
+.filme-principal .container { /* faz com que a largura do título fique em 70% para que o texto não se expanda */
     width: 10%;
 }
 .box-jogo {
@@ -108,7 +108,7 @@ header nav a:hover {
     opacity: 1; /* com o 1 sendo mais opaco, irá retirar a opacidade dando clareza no que está selecionado */
 }
 .carrosel-jogos {
-    margin-top: -8%;
+    margin-top: -11%;
     cursor: pointer;    
 }
 .videoBG {
